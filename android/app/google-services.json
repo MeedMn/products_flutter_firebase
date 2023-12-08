@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546874159595",
+    "project_id": "atelier4-m-menfalouti-iir5g4",
+    "storage_bucket": "atelier4-m-menfalouti-iir5g4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546874159595:android:2454e4035eeec1c5e2a9ae",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_m_menfalouti_iir5g4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebCVRX7417u7QkkC7I-UQ0gR0y-Je0-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
